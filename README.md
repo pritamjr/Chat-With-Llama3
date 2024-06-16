@@ -1,13 +1,13 @@
 # Chat-With-Llama3
 
-Commands used to execute code:
+**Commands used to execute code:**
 1. pip install -r requirements.txt
 2. streamlit run main.py
 
 
 
 
-Setup and Execution:
+**Setup and Execution:**
 
 Step 1: Install Ollama from (https://ollama.com/download)
 
