@@ -3,7 +3,7 @@ import streamlit as st
 
 llm = Ollama(model="llama3")
 
-st.title("Chatbot using Llama3")
+st.title("Chat with Llama3")
 
 prompt = st.text_area("Enter your prompt:")
 
