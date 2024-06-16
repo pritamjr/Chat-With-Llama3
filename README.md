@@ -12,6 +12,7 @@
 Step 1: Install Ollama from (https://ollama.com/download)
 
 Step 2: Run the command :  ollama pull llama3
+        
         to download llama3.
 
 Step 3: Open VS Code or other environment to write python code(main.py) in a virtual environment.
